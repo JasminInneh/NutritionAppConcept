@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: #680e2a;
+}
+.box-one {
+  width: 200px;
+  height: 100px;
+  background: blue;
+}
